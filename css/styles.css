@@ -1,0 +1,112 @@
+body{font-family:"Montserrat-Bold"}
+#title
+{
+color: #000;
+background-color: rgb(228, 83, 73);
+
+}
+.h-one
+{
+    font-family: "Montserrat-Black";
+    color: whitesmoke;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.nav-link
+{
+margin-left:2rem ;
+}
+.ttl-img
+{
+    transform: rotate(25deg);
+    width:35%;
+}
+.fe
+{
+    text-align: center;padding: 5%;
+}
+.logo-features
+{
+color: rgb(231, 102, 50);
+}
+.logo-features:hover
+{
+color: rgb(158, 64, 27);
+}
+.h3
+{
+    font-family: "arial-bold";
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.pfe
+{
+font-size: 1rem;
+color: #8f8f8f;
+}
+.testi-img
+{
+    border-radius: 100%;
+    width: 14%;
+}
+#testimonials
+{
+    text-align: center;
+    background-color: rgb(228, 83, 73);
+}
+.carousel-item{
+    padding: 1% 10% 7%;
+}
+.testi-h2
+{
+font-family: "Montserrat-Black";
+color: white;
+font-weight: bolder;
+font-size: 3rem;
+text-align: center;
+padding: 5%;
+}
+#press
+{
+    padding: 1% 0% 4%;
+    text-align: center;
+    height: 7%;
+    background-color: rgb(228, 83, 73);
+}
+.prs-logo
+{
+    width: 14%;
+    padding-left: 4%;
+}
+.carddd
+{
+    justify-content: center;
+    margin: auto;
+    padding:2rem;
+}
+.crdall
+{
+    margin: 2rem;
+    padding:0.5rem 2rem;
+    text-align: center;
+}
+footer
+{   
+    color: aliceblue;
+    height: 6rem;
+    padding-top: 2rem;
+    text-align: center;
+    background-color: rgb(56, 53, 51);
+}
+.pr
+{
+    margin: auto;
+    background-color:  rgb(228, 83, 73);
+}
+tr{
+     color: rgb(248, 245, 245);}
+.cardmy1
+{
+    display: flex;
+    width: 50%;
+}
